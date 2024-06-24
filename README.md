@@ -1,2 +1,2 @@
-# FIFOVerification
-Verification of a FIFO using UVM and Formal Property Verification
+# FIFO Verification
+Verification of a Synchronous FIFO using UVM and Formal Property Verification
